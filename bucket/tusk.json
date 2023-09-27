@@ -1,10 +1,10 @@
 {
-    "version": "0.23.0",
+    "version": "0.22.0",
     "description": "Refined Evernote desktop app",
     "homepage": "https://klaussinani.tech/tusk/",
     "license": "MIT",
-    "url": "https://github.com/klaussinani/tusk/releases/download/v0.23.0/tusk-0.23.0.exe#/dl.7z",
-    "hash": "838b087669b43c54220436e7007035a8c90b4bc94543e9bd9eb5de2961644b05",
+    "url": "https://github.com/klaussinani/tusk/releases/download/v0.22.0/tusk-0.22.0.exe#/dl.7z",
+    "hash": "5bd7ddb4a6b806e9af67a414688d4013bb0edfc37bca09f5905c7f862172a1e7",
     "architecture": {
         "64bit": {
             "pre_install": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
