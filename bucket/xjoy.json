@@ -1,12 +1,12 @@
 {
-    "version": "0.1.9",
+    "version": "0.1.8",
     "description": "Gamepad driver for Nintendo Switch Joy-Cons that merges them into one controller.",
     "homepage": "https://github.com/sam0x17/XJoy",
     "license": "MIT",
     "notes": "Needs ViGEmBus to function: https://github.com/ViGEm/ViGEmBus/releases",
-    "url": "https://github.com/sam0x17/XJoy/releases/download/v0.1.9/XJoy.v0.1.9.zip",
-    "hash": "3d4b8e77b8b81ee147bc6942cbfea3231a07c07cd90db523c5f4c6b8e7e71b15",
-    "extract_dir": "XJoy v0.1.9",
+    "url": "https://github.com/sam0x17/XJoy/releases/download/v0.1.8/XJoy.v0.1.8.zip",
+    "hash": "06b1357c2083fa8f3581bc25a597e62d663007aaf2fbac46ee3fb3a586f91002",
+    "extract_dir": "XJoy v0.1.8",
     "bin": "XJoy.exe",
     "checkver": "github",
     "autoupdate": {
